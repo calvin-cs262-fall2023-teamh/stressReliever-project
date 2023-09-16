@@ -1,9 +1,9 @@
 Team members: 
-Blessing Amoah
-Clive Amoh
-Corey Campbell
-Tyler Arista
-Yuese Li
+- Blessing Amoah
+- Clive Amoh
+- Corey Campbell
+- Tyler Arista
+- Yuese Li
 
 Our application is an innovative stress relief application designed to provide users with a tranquil sanctuary amidst the hustle and bustle of daily life. Our vision is to create a harmonious digital space that offers a range of interactive features to alleviate stress and promote mental well-being. With a focus on mindfulness, creativity, and decision-making, our app empowers users to regain their balance, find inner peace, and improve their overall mental health.
 
