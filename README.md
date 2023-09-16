@@ -1,3 +1,10 @@
+Team members: 
+Blessing Amoah
+Clive Amoh
+Corey Campbell
+Tyler Arista
+Yuese Li
+
 Our application is an innovative stress relief application designed to provide users with a tranquil sanctuary amidst the hustle and bustle of daily life. Our vision is to create a harmonious digital space that offers a range of interactive features to alleviate stress and promote mental well-being. With a focus on mindfulness, creativity, and decision-making, our app empowers users to regain their balance, find inner peace, and improve their overall mental health.
 
 While there are various stress relief applications on the market, our app stands out by offering a holistic approach to relaxation. Unlike traditional meditation apps, our app combines dynamic features like the fidget component, decision-making feature, and drawing functionality, providing users with a diverse set of tools to manage stress. Additionally, the integrated user profile with activity logs enables personalized insights, fostering a deeper connection to one's own well-being journey.
