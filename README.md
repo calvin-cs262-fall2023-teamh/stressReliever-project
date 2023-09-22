@@ -1,8 +1,8 @@
 CS262 Project: Fidget Czar
 
-Our application is an innovative stress relief application designed to provide users with a tranquil sanctuary amidst the hustle and bustle of daily life. Our vision is to create a harmonious digital space that offers a range of interactive features to alleviate stress and promote mental well-being. With a focus on mindfulness, creativity, and decision-making, our app empowers users to regain their balance, find inner peace, and improve their overall mental health.
+Our application, Figet Czar, is a groundbreaking stress relief app designed to be a tranquil haven in the midst of life's daily chaos. Our overarching design objective for Figet Czar is to create a user-friendly platform that seamlessly integrates mindfulness, creativity, and decision-making features, providing a multifaceted approach to stress relief and mental well-being.
 
-While there are various stress relief applications on the market, our app stands out by offering a holistic approach to relaxation. Unlike traditional meditation apps, our app combines dynamic features like the fidget component and drawing functionality, providing users with a diverse set of tools to manage stress. Additionally, the integrated user profile with activity logs enables personalized insights, fostering a deeper connection to one's own well-being journey.
+While the market offers various stress relief applications, Figet Czar distinguishes itself through its comprehensive approach to relaxation. Going beyond conventional meditation apps, our platform integrates dynamic elements like fidgeting and drawing functions, furnishing users with a versatile toolkit for stress management. Additionally, the inclusion of user profiles with activity logs provides tailored insights, fostering a deeper connection to one's own journey toward well-being.
 
 Key Features:
 
