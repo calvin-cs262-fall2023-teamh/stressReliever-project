@@ -1,9 +1,4 @@
-Team members: 
-- Blessing Amoah
-- Clive Amoh
-- Corey Campbell
-- Tyler Arista
-- Yuese Li
+CS262 Project: Fidget Czar
 
 Our application is an innovative stress relief application designed to provide users with a tranquil sanctuary amidst the hustle and bustle of daily life. Our vision is to create a harmonious digital space that offers a range of interactive features to alleviate stress and promote mental well-being. With a focus on mindfulness, creativity, and decision-making, our app empowers users to regain their balance, find inner peace, and improve their overall mental health.
 
@@ -18,3 +13,11 @@ Key Features:
 3. Drawing Functionality: Provides a creative outlet for expression and relaxation, enabling users to engage with soothing visual activities.
 
 4. User Profile with Activity Log: Allows users to track their engagement and progress within the app, providing a tangible record of their stress relief journey.
+
+
+Team members: 
+- Blessing Amoah
+- Clive Amoh
+- Corey Campbell
+- Tyler Arista
+- Yuese Li
