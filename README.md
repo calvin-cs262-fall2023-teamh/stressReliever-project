@@ -1,4 +1,4 @@
-CS262 Project: Fidget Czar
+# Fidget Czar
 
 Our application, Figet Czar, is a groundbreaking stress relief app designed to be a tranquil haven in the midst of life's daily chaos. Our overarching design objective for Figet Czar is to create a user-friendly platform that seamlessly integrates mindfulness, creativity, and decision-making features, providing a multifaceted approach to stress relief and mental well-being.
 
@@ -12,10 +12,20 @@ Key Features:
 
 3. User Profile with Activity Log: Allows users to track their engagement and progress within the app, providing a tangible record of their stress relief journey.
 
+# Project Deliverables
+- Design Models
+  - Domain Model
+  - UI Design Mock-up
+  - Deployment Diagram
+- Presentation Materials
+  - First Presentation
 
-Team members: 
+
+# Team members: 
 - Blessing Amoah
 - Clive Amoh
 - Corey Campbell
 - Tyler Arista
 - Yuese Li
+
+View our organization [here](https://github.com/calvin-cs262-fall2023-teamh).
