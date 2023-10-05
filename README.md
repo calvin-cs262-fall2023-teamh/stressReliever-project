@@ -1,6 +1,6 @@
 # Fidget Czar
 
-Our application, Figet Czar, is a stress relief application designed to be a tranquil haven in the midst of life's daily chaos. Our overarching design objective for Figet Czar is to create a user-friendly platform that seamlessly integrates mindfulness, creativity, and decision-making features, providing a multifaceted approach to stress relief and mental well-being.
+Our application, Figet Czar, is a stress relief app designed to be a tranquil haven in the midst of life's daily chaos. Our overarching design objective for Figet Czar is to create a user-friendly platform that seamlessly integrates mindfulness, creativity, and decision-making features, providing a multifaceted approach to stress relief and mental well-being.
 
 While the market offers various stress relief applications, Figet Czar distinguishes itself through its comprehensive approach to relaxation. Going beyond conventional meditation apps, our platform integrates dynamic elements like fidgeting and drawing functions, furnishing users with a versatile toolkit for stress management. Additionally, the inclusion of user profiles with activity logs provides tailored insights, fostering a deeper connection to one's own journey toward well-being.
 
