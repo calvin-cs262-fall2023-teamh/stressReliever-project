@@ -16,8 +16,8 @@ Key Features:
 
 # Project Deliverables
 - Design Models
-  - Domain Model
-  - UI Design Mock-up
+  - [Domain Model](https://github.com/calvin-cs262-fall2023-teamh/stressReliver-project/blob/main/images/domainModel.pdf)
+  - [UI Design Mock-up](https://github.com/calvin-cs262-fall2023-teamh/stressReliver-project/blob/main/images/CS262-UIDesign.pdf)
 - Presentation Materials
   - First Presentation
 
