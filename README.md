@@ -1,18 +1,22 @@
 # MindfulKnights
 
-Our application, Figet Czar, is a stress relief app designed to be a tranquil haven in the midst of life's daily chaos. Our overarching design objective for Figet Czar is to create a user-friendly platform that seamlessly integrates mindfulness, creativity, and decision-making features, providing a multifaceted approach to stress relief and mental well-being.
+Introducing "MindfulKnights" – your ultimate breather in the midst of student life's constant academic hustle, where social media distractions are always lurking. We understand the need for a quick, rejuvenating break to help you refocus on your studies.
 
-While the market offers various stress relief applications, Figet Czar distinguishes itself through its comprehensive approach to relaxation. Going beyond conventional meditation apps, our platform integrates dynamic elements like fidgeting and drawing functions, furnishing users with a versatile toolkit for stress management. Additionally, the inclusion of user profiles with activity logs provides tailored insights, fostering a deeper connection to one's own journey toward well-being.
+We've designed MindfulKnights to be that chill-out zone, tailored for students like you. It's the place where you can unwind, get creative, and make decisions, all within one stress-relieving app that's got your back.
 
-Key Features:
+This isn't your average study app. MindfulKnights brings in some fun features like fidgeting and drawing, giving you a bunch of options for tackling those moments when concentration wavers. And guess what? You can track your progress and see how you're doing on your own journey towards productivity.
 
-1. Fidget Component: Incorporates a range of interactive activities (like a fidget spinner, color-changing button, etc.) designed to divert restless energy, promoting relaxation and focus.
+Check out these cool features:
 
-2. Drawing Functionality: Provides a creative outlet for expression and relaxation, enabling users to engage with soothing visual activities. There will also be a feature where you can keep track of previous drawings to revisit or edit them later.
+Fidget: Play around with interactive elements like a fidget spinner or a color-changing button. It's a fantastic way to unwind and get back in the zone.
 
-3. User Profile with Activity Log: Allows users to track their engagement and progress within the app, providing a tangible record of their stress relief journey.
+Get Creative: Express yourself and take a breather with the drawing tool. You can even go back and adjust your previous creations whenever inspiration hits.
 
-4. Share: Allows the user to share previous drawings or activities with others.
+Your Personal Journey Journal: Keep tabs on what you're up to in the app and see how you're progressing. It's like having a record of your path towards a focused, stress-free study routine.
+
+Spread the Good Vibes: Share your drawings and activities with friends. Who knows, you might just inspire others to find their own moments of focus and calm.
+
+MindfulKnights is here to be your trusted companion in reclaiming your focus, even in the midst of social media distractions and academic demands. It's your personal stress-buster, crafted just for students like you.
 
 # Project Deliverables
 - Design Models
