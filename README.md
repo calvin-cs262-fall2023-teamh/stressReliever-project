@@ -21,7 +21,7 @@ MindfulKnights is here to be your trusted companion in reclaiming your focus, ev
 # Project Deliverables
 - Design Models
   - [Domain Model](https://github.com/calvin-cs262-fall2023-teamh/stressReliver-project/blob/main/images/domainModel.pdf)
-  - [UI Design Mock-up]([https://github.com/calvin-cs262-fall2023-teamh/stressReliver-project/blob/main/images/CS262-UIDesign.pdf](https://github.com/calvin-cs262-fall2023-teamh/stressReliever-project/blob/main/images/UpdatedUI.pdf))
+  - [UI Design Mock-up](https://github.com/calvin-cs262-fall2023-teamh/stressReliever-project/blob/main/images/UpdatedUI.pdf)
 - Presentation Materials
   - First Presentation
 
