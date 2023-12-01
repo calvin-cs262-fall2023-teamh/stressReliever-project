@@ -5,7 +5,7 @@ We've designed MindfulKnights to be that chill-out zone, tailored for students l
 This isn't your average study app. MindfulKnights brings in some fun features like fidgeting and drawing, giving you a bunch of options for tackling those moments when concentration wavers. And guess what? You can track your progress and see how you're doing on your journey towards productivity.
 Check out these cool features:
 
-Fidget: Play around with interactive elements like a fidget spinner or a color-changing button. It's a fantastic way to unwind and get back in the zone.
+Fidget: Interact with our fidget page where you can vent, use a fidget spinner, etc. It's a fantastic way to unwind and get back in the zone.
 
 Get Creative: Express yourself and take a breather with the drawing tool. You can even go back and adjust your previous creations whenever inspiration hits.
 
