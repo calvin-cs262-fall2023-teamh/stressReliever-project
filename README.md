@@ -33,5 +33,6 @@ MindfulKnights is here to be your trusted companion in reclaiming your focus, ev
 # Other Stress Reliever Repos
 - [Project Materials](https://github.com/calvin-cs262-fall2023-teamh/stressReliver-project)
 - [Mobile Client](https://github.com/calvin-cs262-fall2023-teamh/stressReliever-client)
+- [Webservice](https://github.com/calvin-cs262-fall2023-teamh/mindfulKnight-service)
 
 View our organization [here](https://github.com/calvin-cs262-fall2023-teamh).
