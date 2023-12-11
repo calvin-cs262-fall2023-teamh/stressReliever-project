@@ -6,11 +6,11 @@ Our mission is clear: to offer a refuge from the escalating stress, providing st
 
 Within MindfulKnights, explore an array of tools and activities that support your mental well-being and academic success:
 
-**Relaxation & Focus**: Explore a variety of activities aimed at promoting relaxation and quick refocusing during study breaks. Within this section, find tools like our breathing exercises on the fidget page that aid in relaxation, allowing you to reset and recharge swiftly. Use the break timer to manage your study sessions effectively, knowing precisely when it's time to return to your tasks.
+- **Relaxation & Focus**: Explore a variety of activities aimed at promoting relaxation and quick refocusing during study breaks. Within this section, find tools like our breathing exercises on the fidget page that aid in relaxation, allowing you to reset and recharge swiftly. Use the break timer to manage your study sessions effectively, knowing precisely when it's time to return to your tasks.
 
-**Creative Expression**: Immerse yourself in diverse outlets within the app that nurture unrestricted creativity. The drawing page serves as a canvas for your artistic expressions, enabling you to sketch, doodle, or create visual representations of your ideas. Your previous drawings are stored for easy access, encouraging you to revisit and build upon your creative endeavours whenever inspiration strikes.
+- **Creative Expression**: Immerse yourself in diverse outlets within the app that nurture unrestricted creativity. The drawing page serves as a canvas for your artistic expressions, enabling you to sketch, doodle, or create visual representations of your ideas. Your previous drawings are stored for easy access, encouraging you to revisit and build upon your creative endeavours whenever inspiration strikes.
 
-**Progress Monitoring**: Keep tabs on your MindfulKnights journey by marking significant milestones on your path to a more balanced and stress-resilient study routine. Track your progress in managing stress through activities like using the breathing tool and vent space on the fidget page, providing a visual representation of your stress management strategies.
+- **Progress Monitoring**: Keep tabs on your MindfulKnights journey by marking significant milestones on your path to a more balanced and stress-resilient study routine. Track your progress in managing stress through activities like using the breathing tool and vent space on the fidget page, providing a visual representation of your stress management strategies.
 
 MindfulKnights stands not just as an app but as a dedicated companion for students, a digital ally in the battle against escalating academic pressures. It's here to empower you, offering a haven where tranquillity and focus harmoniously coexist amid the rigours of student life.
 
