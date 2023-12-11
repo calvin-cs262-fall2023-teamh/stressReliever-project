@@ -1,20 +1,18 @@
 # MindfulKnights
 
-In an era where the demands of school life continue to escalate, students find themselves amidst an ever-mounting pressure cooker. The constant rise in academic stress has created an urgent need for tools that aid in navigating this overwhelming landscape. It's in response to this escalating pressure that MindfulKnights was conceived.
+In an era where the demands of school life continue to escalate, students find themselves amidst an ever-mounting pressure cooker. The constant rise in academic stress has created an urgent need for tools that aid in navigating this overwhelming landscape. It's in response to this escalating pressure that MindfulKnights was created.
 
-At MindfulKnights, we understand the relentless cycle of stress that students face in their academic journey. This understanding has driven us to create a sanctuary—a digital oasis amid the tumultuous tides of school life.
-
-Our mission is clear: to offer a refuge from the escalating stress, providing students with a tranquil space to momentarily detach from the overwhelming demands of academics. MindfulKnights goes beyond a mere study aid; it's a haven, meticulously designed to foster relaxation, kindle creativity, and instil a sense of balance amidst the chaos.
+Our mission is clear: to offer a refuge from the escalating stress, providing students with a space to momentarily detach from the overwhelming demands of academics. MindfulKnights goes beyond a mere study aid; it's a place meticulously designed to foster relaxation, kindle creativity, and instil a sense of balance amidst the chaos.
 
 Within MindfulKnights, explore an array of tools and activities that support your mental well-being and academic success:
 
-- Relaxation & Focus: Discover diverse activities that facilitate relaxation and swift refocusing during study breaks.
-  
-- Creative Expression: Engage with various outlets within the app, allowing your creativity to flourish unrestricted.
+**Relaxation & Focus**: Explore a variety of activities aimed at promoting relaxation and quick refocusing during study breaks. Within this section, find tools like our breathing exercises on the fidget page that aid in relaxation, allowing you to reset and recharge swiftly. Use the break timer to manage your study sessions effectively, knowing precisely when it's time to return to your tasks.
 
-- Progress Monitoring: Track your journey within MindfulKnights, marking milestones towards a more centered, stress-resilient study routine.
+**Creative Expression**: Immerse yourself in diverse outlets within the app that nurture unrestricted creativity. The drawing page serves as a canvas for your artistic expressions, enabling you to sketch, doodle, or create visual representations of your ideas. Your previous drawings are stored for easy access, encouraging you to revisit and build upon your creative endeavours whenever inspiration strikes.
 
-MindfulKnights stands not just as an app but as a dedicated companion for students, a digital ally in the battle against escalating academic pressures. It's here to empower you, offering a haven where tranquility and focus harmoniously coexist amid the rigors of student life.
+**Progress Monitoring**: Keep tabs on your MindfulKnights journey by marking significant milestones on your path to a more balanced and stress-resilient study routine. Track your progress in managing stress through activities like using the breathing tool and vent space on the fidget page, providing a visual representation of your stress management strategies.
+
+MindfulKnights stands not just as an app but as a dedicated companion for students, a digital ally in the battle against escalating academic pressures. It's here to empower you, offering a haven where tranquillity and focus harmoniously coexist amid the rigours of student life.
 
 # Project Deliverables
 - Design Models
