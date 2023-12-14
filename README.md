@@ -18,7 +18,7 @@ MindfulKnights stands not just as an app but as a dedicated companion for studen
 - Design Models
   - [Domain Model](https://github.com/calvin-cs262-fall2023-teamh/stressReliever-project/blob/main/images/domainModel.pdf)
   - [UI Model](https://github.com/calvin-cs262-fall2023-teamh/stressReliever-project/blob/main/images/CS262%20-%20UI%20Model.pdf)
-  - [Deployment Diagram](https://github.com/calvin-cs262-fall2023-teamh/stressReliever-project/blob/main/images/deploymentDiagram.jpg)
+  - [Deployment Diagram](https://github.com/calvin-cs262-fall2023-teamh/stressReliever-project/blob/main/images/deploymentDiagram.pdf)
 - Presentation Materials
   - [First Presentation](https://docs.google.com/presentation/d/1Hq94WyGVQHxUbqpQ3sW6voF3JRD_0e6tVNmhLCYjin8/edit#slide=id.g261224ab51f_0_39)
   - [Final Presentation](https://docs.google.com/presentation/d/11S6xdRKqMKYRHif7dTVj32-soN6qmLCKFmmZuWM1JV8/edit?usp=sharing)
